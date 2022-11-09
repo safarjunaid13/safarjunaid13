@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safarjunaid13
 - 👀 I’m interested in being a Full Stack Developer
-- 🌱 I’m currently learning Python, MongoDB etc.
+- 🌱 I’m currently learning Javascript, CSS, Bootstrap etc.
 - 💞️ I’m looking to collaborate on projects related to Python, Salesforce
 - 📫 How to reach me www.linkedin.com/in/safarjunaid | <a href="safarjunaid@gmail.com">safarjunaid@gmail.com</a>
 
